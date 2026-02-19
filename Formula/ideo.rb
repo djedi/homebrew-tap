@@ -1,8 +1,8 @@
 class Ideo < Formula
   desc "CLI tool for generating images with the Ideogram v3 API"
   homepage "https://github.com/djedi/ideo"
-  url "https://github.com/djedi/ideo/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4f6b084b2743e7647448ab05ff94d806fde8c6fa366474e8d36e3afe76aa2e46"
+  url "https://github.com/djedi/ideo/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "265b8c28de7916a6a3401c2b228281077c9419a1017c8f201539b06c3b133494"
   license "MIT"
 
   depends_on "rust" => :build
