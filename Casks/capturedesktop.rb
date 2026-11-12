@@ -5,7 +5,7 @@ cask "capturedesktop" do
   url "https://github.com/djedi/CaptureDesktop/releases/download/v#{version}/CaptureDesktop.zip",
       verified: "github.com/djedi/CaptureDesktop/"
   name "CaptureDesktop"
-  desc "Screen recorder that hands its recordings to DaVinci Resolve"
+  desc "Screen recorder that hands its recordings to DaVinci Resolve Studio"
   homepage "https://capturedesk.top/"
 
   livecheck do
