@@ -1,9 +1,8 @@
 cask "capturedesktop" do
-  version "0.1.13"
-  sha256 "91e0451320a13f6e549af3a424b4f07d1dc55c112b518b4c8a30ba21d1ad5d2a"
+  version "0.1.15"
+  sha256 "0dbdbb3e07a7330cb5ea4f994ae05484c1658d52996e1cf0367bc64fafd4d55c"
 
-  url "https://github.com/djedi/CaptureDesktop/releases/download/v#{version}/CaptureDesktop.zip",
-      verified: "github.com/djedi/CaptureDesktop/"
+  url "https://github.com/djedi/CaptureDesktop/releases/download/v#{version}/CaptureDesktop.zip"
   name "CaptureDesktop"
   desc "Screen recorder that hands its recordings to DaVinci Resolve Studio"
   homepage "https://capturedesk.top/"
