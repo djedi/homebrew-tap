@@ -1,6 +1,6 @@
 cask "capturedesktop" do
-  version "0.1.11"
-  sha256 "1cd2efd47c499d999430812775ff90a635b0ac2ff772ae00cce7461689da96fc"
+  version "0.1.13"
+  sha256 "91e0451320a13f6e549af3a424b4f07d1dc55c112b518b4c8a30ba21d1ad5d2a"
 
   url "https://github.com/djedi/CaptureDesktop/releases/download/v#{version}/CaptureDesktop.zip",
       verified: "github.com/djedi/CaptureDesktop/"
